@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Captura de pantalla
+![ScreenShot](./app.png)
+
 ## Descripción
 
 Este proyecto es solo con fines de practica y para el mejor entendimiento de useEffect, useState y el consumo de API's con React, el servicio lo consumí de https://openweathermap.org/
