@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Captura de pantalla
-![ScreenShot](./app.png)
+![ScreenShot](https://raw.githubusercontent.com/ramiromtz/Weather-app/master/public/app.png)
 
 ## Descripción
 
